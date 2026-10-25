@@ -1,0 +1,28 @@
+Tipus de moviment;Producte;Data inici;Data fi;Descripció;Import;Comissió;Divisa;Estat;Saldo
+Recargas;Actual;5/1/2026 20:28;5/1/2026 20:28;Recarga por transferencia bancaria;5.00;0.00;EUR;COMPLETADO;20.37
+Transferir;Actual;6/1/2026 11:33;6/1/2026 11:33;RevPoints con Redondeo;-0.55;0.00;EUR;COMPLETADO;19.82
+Recargas;Actual;6/1/2026 12:14;6/1/2026 12:14;Recarga por transferencia bancaria;15.00;0.00;EUR;COMPLETADO;34.82
+Pago con tarjeta;Actual;6/1/2026 20:48;7/1/2026 22:05;Renfe Rodalies;-1.40;0.00;EUR;COMPLETADO;33.42
+Recargas;Actual;7/1/2026 11:01;7/1/2026 11:01;Recarga por transferencia bancaria;10.00;0.00;EUR;COMPLETADO;36.40
+Pago con tarjeta;Actual;9/1/2026 20:35;;Forn de Pa Can Josep;-0.93;0.00;EUR;DEVUELTO;
+Pago con tarjeta;Actual;29/1/2026 13:21;30/1/2026 13:49;Bicing;-0.50;0.00;EUR;COMPLETADO;21.52
+Cambio;Actual;5/3/2026 9:05;5/3/2026 9:05;Cambiado a GBP;-10.00;0.10;EUR;COMPLETADO;1.56
+Pago con tarjeta;Actual;9/4/2026 10:37;;Bicing;-4.76;0.00;EUR;DEVUELTO;
+Pago con tarjeta;Actual;17/7/2026 13:20;;Fruiteria Núria;-7.64;0.00;EUR;DEVUELTO;
+Pago con tarjeta;Actual;11/8/2026 8:26;;Fruiteria Núria;-7.93;0.00;EUR;DEVUELTO;
+Pago con tarjeta;Actual;21/9/2026 13:50;;Màquina vending Institut;-9.07;0.00;EUR;PENDIENTE;
+Transferir;Actual;7/12/2026 13:18;7/12/2026 13:18;RevPoints con Redondeo;-0.19;0.00;EUR;COMPLETADO;9.89
+Pago con tarjeta;Actual;7/12/2026 17:27;8/12/2026 21:06;Cafeteria L'Estació;-6.31;0.00;EUR;COMPLETADO;3.58
+Transferir;Actual;9/12/2026 14:43;9/12/2026 14:43;RevPoints con Redondeo;-0.57;0.00;EUR;COMPLETADO;3.01
+Recargas;Actual;10/12/2026 18:48;10/12/2026 18:48;Recarga por transferencia bancaria;10.00;0.00;EUR;COMPLETADO;13.01
+Recargas;Actual;11/12/2026 15:40;11/12/2026 15:40;Recarga con Bizum;10.00;0.00;EUR;COMPLETADO;17.87
+Pago con tarjeta;Actual;11/12/2026 15:44;11/12/2026 15:44;Bicing;-8.25;0.00;EUR;COMPLETADO;9.62
+Recargas;Actual;11/12/2026 21:31;11/12/2026 21:31;Recarga con tarjeta *4821;10.00;0.00;EUR;COMPLETADO;19.62
+Pago con tarjeta;Actual;12/12/2026 21:57;13/12/2026 23:53;Bicing;-4.82;0.00;EUR;COMPLETADO;5.61
+Pago de Revolut;Actual;15/12/2026 3:42;15/12/2026 3:42;Plan Standard;-0.99;0.00;EUR;COMPLETADO;4.14
+Recargas;Actual;15/12/2026 13:55;15/12/2026 13:55;Recarga con tarjeta *4821;10.00;0.00;EUR;COMPLETADO;14.14
+Pago con tarjeta;Actual;15/12/2026 13:59;15/12/2026 13:59;Bar Gràcia;-4.97;0.00;EUR;COMPLETADO;9.17
+Recargas;Actual;16/12/2026 20:24;16/12/2026 20:24;Recarga con Bizum;10.00;0.00;EUR;COMPLETADO;16.47
+Pago con tarjeta;Actual;16/12/2026 20:28;16/12/2026 20:28;Bar La Cantonada;-9.01;0.00;EUR;COMPLETADO;7.46
+Transferir;Actual;16/12/2026 22:14;16/12/2026 22:14;RevPoints con Redondeo;-0.74;0.00;EUR;COMPLETADO;6.72
+Recargas;Actual;17/12/2026 10:10;17/12/2026 10:10;Recarga en efectivo;10.00;0.00;EUR;COMPLETADO;16.72
